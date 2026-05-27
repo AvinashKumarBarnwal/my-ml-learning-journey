@@ -73,9 +73,22 @@ Through this assignment, the focus is on developing understanding of:
 ```text
 01-linear-regression/
 │
+├── assignment-question/
+│   └── problem-statement.md
+│
 ├── code/
+│   └── bigmart_revenue_prediction.py
+│
+├── dataset/
+│   └── bigmart.csv
+│
 ├── images/
+│
+├── notebook/
+│   └── bigmart_analysis_stepwise.ipynb
+│
 ├── notes/
+│
 └── README.md
 ```
 
