@@ -96,6 +96,4 @@ Through this assignment, the focus is on developing understanding of:
 
 # Status
 
-🚧 Work in Progress
-
-Notebook implementation, observations, visualizations, and results will be added progressively during the assignment execution.
+🚧 Completed!
